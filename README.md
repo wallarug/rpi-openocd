@@ -1,6 +1,6 @@
 # OpenOCD Toolkit
 
-This contains the files required to use the Raspberry Pi as a programmer on GPIO24 and GPIO25.  
+This contains the files required to use the Raspberry Pi as a programmer on GPIO24 and GPIO25.   Use the Hackster.io Tutorial for usage instructions.
 
 ## Directory Stucture
 
